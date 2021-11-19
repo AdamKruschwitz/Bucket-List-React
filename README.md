@@ -1,70 +1,48 @@
-# Getting Started with Create React App
+# Bucket List React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Table of Contents
+* [Description](#description)
+* [Installation instructions](#installation-instructions)
+* [Usage Information](#usage-information)
+* [Program Tests](#program-tests)
+* [License](#license)
+* [Contributors](#contributors)
+* [Questions](#questions)
 
-## Available Scripts
+## Description
+A bucket list app utilizing react and express.js. Created as an exercise for the UC Berkley Full Stack Web Development bootcamp.
 
-In the project directory, you can run:
+## Installation instructions
+``` git clone ______ ```, ```npm install```, ``` npm start ```
 
-### `npm start`
+## Usage Information
+Input your bucket list item and click the priority button to choose a priority level. You can click the text of an entry to mark it as complete, edit entries by clicking the pencil icon, or delete entries by clicking the trash icon.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Program Tests
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `npm test`
+## License
+![License](https://licensebuttons.net/l/zero/1.0/80x15.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+      The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law.
 
-### `npm run build`
+      You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Read more: [Link to license](http://creativecommons.org/publicdomain/zero/1.0/)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Contributors
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+**Adam Kruschwitz**
+* [GitHub](https://github.com/AdamKruschwitz)
+* [LinkedIn](https://linkedin.com/li/adamkruschwitz)
+**Gabriel Crosetti**
+* [GitHub](https://github.com/gabrielcrosetti)
+* [LinkedIn](https://linkedin.com/gabriel-crosetti)
+**Mehdi Safari**
+* [GitHub](https://github.com/mehdisafari77)
+* [LinkedIn](https://www.linkedin.com/in/mehdi-safari-992799142/)
+**George Sandoval**
+* [GitHub](https://github.com/gsandoval09)
+* [LinkedIn](https://www.linkedin.com/in/george-sandoval-4467641b3/)
+## Questions
+reach out to me at ```a.j.kruschwitz``` and I'll get back to you as soon as I can
