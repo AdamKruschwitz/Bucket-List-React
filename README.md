@@ -4,7 +4,7 @@
 * [Description](#description)
 * [Installation instructions](#installation-instructions)
 * [Usage Information](#usage-information)
-* [Program Tests](#program-tests)
+* [Demo](#demo)
 * [License](#license)
 * [Contributors](#contributors)
 * [Questions](#questions)
@@ -18,8 +18,11 @@ A bucket list app utilizing react and express.js. Created as an exercise for the
 ## Usage Information
 Input your bucket list item and click the priority button to choose a priority level. You can click the text of an entry to mark it as complete, edit entries by clicking the pencil icon, or delete entries by clicking the trash icon.
 
-## Program Tests
+## Demo
 
+Check out the live site [here](https://morning-wave-65778.herokuapp.com/).
+
+![A demo of the bucket list app running](demo.gif)
 
 ## License
 ![License](https://licensebuttons.net/l/zero/1.0/80x15.png)
